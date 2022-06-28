@@ -1,4 +1,4 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# This presentation covers the basic concepts of vuejs with interactive examples.
 
 To start the slide show:
 
